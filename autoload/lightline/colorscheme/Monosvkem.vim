@@ -39,4 +39,4 @@ let s:p.tabline.right = copy(s:p.normal.right)
 let s:p.normal.error = [ [ s:red, s:black ] ]
 let s:p.normal.warning = [ [ s:gold, s:black2 ] ]
 
-let g:lightline#colorscheme#simpleblack#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#Monosvkem#palette = lightline#colorscheme#flatten(s:p)
